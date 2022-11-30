@@ -1,0 +1,142 @@
+body{
+    background-image: url(image/Group\ 1\ \(1\).png);
+    background-repeat: no-repeat;
+    background-color: #3A3A3A;
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgb(255 255 255 / 90%);
+}
+
+.btn-outline-success{
+    color: #ffffff;
+    border-color:#ffffff;
+}
+
+.btn{
+    padding: .575rem .95rem;
+}
+
+.cont1{
+    height: 880px;
+}
+
+h1{
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 61px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 245px;
+}
+
+h5{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: rgba(78, 204, 0, 0.7);
+    padding-top: 10px
+}
+
+.cont1 img{
+    padding-top: 190px;
+    padding-left: 50%;
+}
+
+h2{
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 61px;
+    color: #4ECC00;
+}
+
+h6{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+    padding-top: 50px;
+    padding-right: 20%;
+}
+
+.cont2{
+    padding-top: 50px;
+}
+
+.cont3{
+    padding-top: 200px;
+}
+
+.accordion{
+    padding-top: 50px;
+}
+
+.accordion-button{
+    font-size: 40px;
+    color: #ffffff;
+    background-color: #3A3A3A;
+}
+
+.accordion-button:not(.collapsed){
+    color: #ffffff;
+    background-color: #3A3A3A;
+}
+
+.accordion-body{
+    font-size: 24px;
+    color: #ffffff;
+    background-color: #3A3A3A;
+}
+
+s{
+    font-size: 20px;
+}
+
+.accordion-button:not(.collapsed)::after{
+    background-image: url(data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='white'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e);
+}
+
+.cont4{
+    padding-top: 200px;
+}
+
+.carousel-inner{
+    padding-top: 100px;
+}
+
+.carousel-control-next, .carousel-control-prev{
+    width: auto;
+    color:#4ECC00;
+}
+
+.cont5{
+    padding-top: 200px;
+}
+
+.accordion-button img{
+    padding-right: 15px;
+}
+
+.cont6{
+    padding-top: 200px;
+}
+
+.col{
+    color: #ffffff;
+    width: 71%;
+}
+
+.cont7{
+    padding-top: 200px;
+    padding-bottom: 50px;
+}
+
+.accordion-button::after{
+    background-image: url(image/Vector\ 1.png);
+}
+
+.accordion-button:not(.collapsed)::after {
+    background-image: url(image/Vector\ 1.png);
+    transform: rotate(-180deg);
+}
